@@ -1,3 +1,5 @@
 @@||analytics.google.com
 @@||*.baidu.com
+
+@@||*.bdimg.com
 @@||azure.com^
